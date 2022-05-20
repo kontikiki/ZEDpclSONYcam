@@ -1,0 +1,6 @@
+('C:\\Users\\JongSul '
+ 'Moon\\Desktop\\Work\\UnstructedWork\\HMD_DXL_Sync\\build\\main\\dynamixel_sdk-3.7.51-py3.8.egg',
+ None,
+ {'*.pyd', '*.pyw', '*.cp38-win_amd64.pyd', '*.py', 'EGG-INFO', '*.pyc'},
+ 'DATA',
+ [])

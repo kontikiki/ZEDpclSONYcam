@@ -1,0 +1,6 @@
+('c:\\users\\jongsul '
+ 'moon\\anaconda3\\envs\\hmd_dxl\\lib\\site-packages\\pyserial-3.5-py3.8.egg',
+ None,
+ {'*.pyd', '*.pyw', '*.cp38-win_amd64.pyd', '*.py', 'EGG-INFO', '*.pyc'},
+ 'DATA',
+ [])
